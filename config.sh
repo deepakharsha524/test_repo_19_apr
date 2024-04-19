@@ -1,0 +1,8 @@
+export TEAM_NAME=aquanar
+export SERVICE_NAME=backup
+export INFRA_ACCOUNT_ID=622399446748
+export LIVE_ACCOUNT_ID=620947175135
+export NONLIVE_ACCOUNT_ID=048104085403
+#export REVISION=$(git rev-parse  HEAD)
+#export REVISION=$(IMAGE_TAG)
+export AWS_DEFAULT_REGION=eu-central-1
